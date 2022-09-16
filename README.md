@@ -1,6 +1,4 @@
-FIX /
-    |ERROR: This script does not work on Python 2.7 The minimum supported Python version is 3.7. Please use https://bootstrap.pypa.io/pip/2.7/get-pip.py instead. 
-    \
+FIX ERROR: This script does not work on Python 2.7 The minimum supported Python version is 3.7. Please use https://bootstrap.pypa.io/pip/2.7/get-pip.py instead. 
 # Speech to text service (STT) 
 
 ## Description
